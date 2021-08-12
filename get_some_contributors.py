@@ -3,7 +3,7 @@ import csv
 
 page = 1
 
-token = "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"
+token = ""
 headers = {"Authorization": "token " + token}
 
 true = True
